@@ -1,0 +1,23 @@
+/* Contato */
+#contato {
+    background-color: #1a1a1a;
+}
+
+.redes-sociais {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin-top: 1rem;
+}
+
+.redes-sociais a {
+    color: #fff;
+    font-size: 2rem;
+    transition: color 0.3s ease;
+}
+
+.redes-sociais a:hover {
+    transition: 0.5s all;
+    transform: translateY(-10px);
+    color: #8a2be2;
+}

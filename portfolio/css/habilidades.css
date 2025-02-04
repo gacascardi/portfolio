@@ -1,0 +1,35 @@
+/* Habilidades */
+#habilidades {
+    background-color: #1a1a1a;
+}
+
+.habilidades-grid {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    margin-top: 4rem;
+}
+
+.habilidade-card {
+    background-color: rgba(138, 43, 226, 0.1);
+    padding: 1.5rem;
+    width: 15em;
+    border-radius: 8px;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    border: 1px solid rgba(138, 43, 226, 0.3);
+}
+
+.habilidade-card:hover {
+    transform: translateY(-10px);
+    background-color: rgba(138, 43, 226, 0.2);
+}
+
+.habilidade-card i {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #8a2be2;
+}
+
+.habilidade-card p {
+    font-size: 1.2rem;
+}

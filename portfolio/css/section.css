@@ -1,0 +1,19 @@
+/* Section */
+.section {
+    height: 40em;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+}
+
+.section a {
+    color: rgb(152, 91, 231);
+}
+
+.section a:hover {
+    transition: all 0.5s;
+    color: rgb(140, 0, 255);
+}
