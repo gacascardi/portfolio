@@ -1,6 +1,11 @@
 /* Contato */
 #contato {
+    height: 50em;
     background-color: #1a1a1a;
+}
+
+#contato h2 {
+    margin-bottom: 2em;
 }
 
 .redes-sociais {
