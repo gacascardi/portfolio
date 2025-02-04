@@ -65,16 +65,16 @@ O projeto está hospedado no GitHub Pages. Acesse: [Link do Portfólio](vercelll
 ## 📸 Screenshots
 
 ### Início
-![Início](img/screenshots/inicio.png)
+![Início](portfolio/img/screenshots/inicio.png)
 
 ### Habilidades
-![Habilidades](img/screenshots/habilidades.png)
+![Habilidades](portfolio/img/screenshots/habilidades.png)
 
 ### Projetos
-![Projetos](img/screenshots/projetos.png)
+![Projetos](portfolio/img/screenshots/projetos.png)
 
 ### Contato
-![Contato](img/screenshots/contato.png)
+![Contato](portfolio/img/screenshots/contato.png)
 
 ## 📄 Licença
 
