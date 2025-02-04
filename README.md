@@ -1,4 +1,4 @@
-# Portfólio Pessoal - HTML, CSS e JavaScript 👻
+# Portfólio Pessoal - HTML, CSS e JavaScript 👨‍💻
 
 Bem-vindo ao meu repositório de portfólio pessoal! Este projeto foi desenvolvido para exibir minhas habilidades.
 
