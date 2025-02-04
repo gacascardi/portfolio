@@ -23,27 +23,23 @@ Bem-vindo ao meu repositório de portfólio pessoal! Este projeto foi desenvolvi
 
 ```
 portfolio/
-├── css/          # Estilos CSS para o design e animações
-│   ├── contato.css          # Estilo CSS para usuarios me contactarem
-│   ├── habilidades.css          # Estilo CSS para introduzir minhas habilidades
-│   ├── header.css          # Estilo CSS para o design do header do site
-│   ├── home.css          # Estilo CSS para apresentar a parte inicial do site
-│   ├── projetos.css          # Estilo CSS para apresentar projetos
-│   ├── reset.css          # CSS para resetar padrões dos navegadores
-│   └── section.css          # Estilo CSS para seção
+├── css/            # Estilos CSS para o design e animações
+│   ├── contato.css            # Estilo CSS para usuarios me contactarem
+│   ├── habilidades.css            # Estilo CSS para introduzir minhas habilidades
+│   ├── header.css            # Estilo CSS para o design do header do site
+│   ├── home.css            # Estilo CSS para apresentar a parte inicial do site
+│   ├── projetos.css            # Estilo CSS para apresentar projetos
+│   ├── reset.css            # CSS para resetar padrões dos navegadores
+│   └── section.css            # Estilo CSS para seção
 │
-├── img/             # Pasta para imagens e ícones
-│   ├── foto.jpg    # Imagem de perfil
-│   ├── projeto1.jpg    # Imagem do Projeto 1
-│   ├── projeto2.jpg    # Imagem do Projeto 2
-│   └── projeto3.jpg    # Imagem do Projeto 3
-│
-│
-├── js/
-│   └── script.js       # Scripts JavaScript para interatividade
+├── img/               # Pasta para imagens e ícones
+│   ├── foto.jpg      # Imagem de perfil
+│   ├── projeto1.jpg      # Imagem do Projeto 1
+│   ├── projeto2.jpg      # Imagem do Projeto 2
+│   └── projeto3.jpg      # Imagem do Projeto 3
 │
 │ 
-└── index.html          # Página principal do portfólio
+└── index.html            # Página principal do portfólio
 ```
 
 ## 🎨 Design
