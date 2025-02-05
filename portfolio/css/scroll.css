@@ -1,0 +1,24 @@
+/*Scroll*/
+body {
+    scroll-behavior: smooth;
+}
+
+/* Personalização da barra de scroll */
+::-webkit-scrollbar {
+    width: 12px; /* Largura da barra de scroll */
+}
+
+::-webkit-scrollbar-track {
+    background: #000000; /* Cor de fundo da área da barra de scroll */
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #7c01da; /* Cor laranja da barra de scroll */
+    border-radius: 10px;
+    border: 3px solid #000000; /* Borda ao redor da barra de scroll */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #7c01daab; /* Cor laranja mais escura ao passar o mouse */
+}
