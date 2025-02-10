@@ -11,3 +11,15 @@ body {
     color: #fff;
     background-color: #000;
 }
+
+body p:hover {
+    color: #59565a;
+    cursor: default;
+    transition: all 0.5s;
+}
+
+body h2:hover {
+    color: #8a2be2;
+    cursor: default;
+    transition: all 0.5s;
+}

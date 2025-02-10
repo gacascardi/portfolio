@@ -1,7 +1,7 @@
 /* Início */
 #inicio {
     background-color: #000;
-    height: 45em;
+    height: 32em;
 }
 
 .inicio-content {
@@ -18,8 +18,9 @@
 }
 
 .foto:hover{
-    transition: all 0.75s;
+    transition: ease-in-out 0.75s;
     transform: scale(1.1);
+    cursor: pointer;
 }
 
 
@@ -28,7 +29,14 @@
     margin-bottom: 0.5rem;
 }
 
+.info h1:hover {
+    color: #8a2be2;
+    cursor: default;
+    transition: all 0.5s;
+}
+
 .info p {
     font-size: 1.2rem;
     color: #ccc;
+    width: 50%;
 }

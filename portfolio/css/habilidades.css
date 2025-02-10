@@ -33,3 +33,8 @@
 .habilidade-card p {
     font-size: 1.2rem;
 }
+
+.habilidade-card p:hover {
+    color: #8a2be2;
+    font-weight: bolder;
+}
